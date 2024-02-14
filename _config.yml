@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: "Jungwoo Lee" # your name (or website title) here
+logo: "/images/profile.png" # your photo (or logo) here ?raw=true
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a student who is conducting research based on autonomous driving in Korea. Currently, I am attending Yonsei University's Mirae Campus and I am a member of <a href="https://hanlabhome.wordpress.com/">HAN Lab</a>.
   <br><br>
-  Second description 
+  Previously, #
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="mailto:jw.lee@yonsei.ac.kr">Email</a>: jw.lee@yonsei.ac.kr
+  <br><br>
+  <a href="https://jwl22.notion.site/Devlog-5932ff7b3fcc4e30a55d98b734dcae81?pvs=4">Notion</a>
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
