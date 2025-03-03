@@ -29,6 +29,6 @@ Fill in later
 ---
 
 ### Paper
-[6D Pose Estimation using RGBd Camera for Symmetric Objects](/pdf/2023KIIS_autumn.pdf)
-[Robot Manipulator Path Planning using Point Cloud Input Neural Network](/pdf/2024KIIS_spring.pdf)
-[Reinforcement Learning Approach for the Eye-in-Hand Robot Manipulator to Perform Pose-based Visual Servoing in Outdoor Environments](/pdf/2024KIIS_autumn.pdf)
+[6D Pose Estimation using RGBd Camera for Symmetric Objects](/pdf/2023KIIS_autumn.pdf)  
+[Robot Manipulator Path Planning using Point Cloud Input Neural Network](/pdf/2024KIIS_spring.pdf)  
+[Reinforcement Learning Approach for the Eye-in-Hand Robot Manipulator to Perform Pose-based Visual Servoing in Outdoor Environments](/pdf/2024KIIS_autumn.pdf)  
